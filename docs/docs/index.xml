@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on </description>
+    <title>Docs on </title>
+    <link>//localhost:1313/docs/</link>
+    <description>Recent content in Docs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first blog post!</title>
-      <link>//localhost:1313/posts/my-first-blog-post/</link>
+      <link>//localhost:1313/docs/my-first-blog-post/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/my-first-blog-post/</guid>
+      <guid>//localhost:1313/docs/my-first-blog-post/</guid>
       <description>&lt;h1 id=&#34;my-first-blog-post&#34;&gt;My First Blog Post!&lt;/h1&gt;
 &lt;p&gt;This is my FIRST blog post following
 &lt;a href=&#34;https://www.youtube.com/watch?v=dnE7c0ELEH8&#34;&gt;https://www.youtube.com/watch?v=dnE7c0ELEH8&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/img-My%20first%20blog%20post!-20250329-1.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;![[img-My first blog post!-20250329-1.png]]&lt;/p&gt;
 &lt;p&gt;Key Workflow:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Setup posts in Obsidian
@@ -43,7 +43,7 @@
       <content>&lt;h1 id=&#34;my-first-blog-post&#34;&gt;My First Blog Post!&lt;/h1&gt;
 &lt;p&gt;This is my FIRST blog post following
 &lt;a href=&#34;https://www.youtube.com/watch?v=dnE7c0ELEH8&#34;&gt;https://www.youtube.com/watch?v=dnE7c0ELEH8&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/img-My%20first%20blog%20post!-20250329-1.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;![[img-My first blog post!-20250329-1.png]]&lt;/p&gt;
 &lt;p&gt;Key Workflow:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Setup posts in Obsidian
