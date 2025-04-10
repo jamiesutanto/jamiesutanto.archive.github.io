@@ -1,12 +1,19 @@
 ---
-aliases: []
+aliases: 
 type: idea
-cssclass: img-grid, embed-strict, wide-page, max
+cssclasses:
+  - img-grid
+  - embed-strict
+  - wide-page
+  - max
 date: 2025-04-06
 source: Ness Labs
-tags: ["2025/Apr", "idea"]
+tags:
+  - 2025/Apr
+  - idea
 status: Seed
 title: Digital Garden - Categories
+draft: "false"
 ---
 # [[Mind Garden]]
 ## Gist

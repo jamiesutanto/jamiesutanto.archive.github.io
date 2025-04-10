@@ -3,6 +3,7 @@ tags:
   - "#game-design"
 title: Mesmer Argosi
 date: 2025-04-10
+draft: "false"
 ---
 
 Blending the concepts of **Mesmer** (from **Guild Wars**) and **Argosi** (from **Sebastian de Castell's** _Greatcoats_ series), we get a combination of **illusion, trickery, manipulation**, and **card games** based on strategy, luck, and social influence. Below are several **concepts** that blend these two fascinating ideas:

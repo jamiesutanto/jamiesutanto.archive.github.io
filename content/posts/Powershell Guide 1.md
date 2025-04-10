@@ -1,10 +1,16 @@
 ---
-aliases: []
+aliases: 
 type: note
-cssclass: img-grid, embed-strict, wide-page, max
+cssclasses:
+  - img-grid
+  - embed-strict
+  - wide-page
+  - max
 date: 2025-04-11
-tags: ["2025/Apr"]
+tags:
+  - 2025/Apr
 title: Powershell Guide
+draft: "false"
 ---
 # [[Powershell Guide]]
 

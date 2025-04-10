@@ -146,4 +146,4 @@ try {
     exit 1
 }
 
-Write-Host "All done! Site synced, processed, committed, built, and deployed."
+Write-Host "All done! Site synced, processed, committed, and pushed."
