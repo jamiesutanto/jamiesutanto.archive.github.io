@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%23game-design/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
@@ -11,11 +14,17 @@
     <loc>/posts/mesmer-argosi/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/2025/apr/</loc>
+    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/mind-garden-1/</loc>
+    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/idea/</loc>
+    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
   </url>

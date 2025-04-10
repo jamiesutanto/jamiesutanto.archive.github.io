@@ -8,7 +8,7 @@ draft: "false"
 
 Blending the concepts of **Mesmer** (from **Guild Wars**) and **Argosi** (from **Sebastian de Castell's** _Greatcoats_ series), we get a combination of **illusion, trickery, manipulation**, and **card games** based on strategy, luck, and social influence. Below are several **concepts** that blend these two fascinating ideas:
 
-![[Mesmer Argosi-1.png]]
+![Image Description](/images/Mesmer%20Argosi-1.png)
 
 ### 1. **Illusionary Gambit**
 

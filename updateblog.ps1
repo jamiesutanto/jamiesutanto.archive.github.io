@@ -111,7 +111,7 @@ if (-not (Test-Path $docsPath)) {
 
 # Use Robocopy to mirror the directories
 $robocopyOptions = @('/MIR', '/Z', '/W:5', '/R:3')
-$robocopyResult = robocopy $sourcePath $destinationPath @robocopyOptions
+$robocopyResult = robocopy $publicPath $docsPath @robocopyOptions
 
 if ($LASTEXITCODE -ge 8) {
     Write-Error "Robocopy failed with exit code $LASTEXITCODE"

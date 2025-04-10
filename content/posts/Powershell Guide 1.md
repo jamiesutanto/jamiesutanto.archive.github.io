@@ -10,7 +10,6 @@ date: 2025-04-11
 tags:
   - 2025/Apr
 title: Powershell Guide
-draft: "false"
 ---
 # [[Powershell Guide]]
 
@@ -45,7 +44,7 @@ Verb-Noun format
 ### Examples
 Write-Host - This lets us print to the terminal 
 "Hello World" | Out-File helloworld.txt - This will create a text file called helloworld.txt with "Hello World" inside of it
-![[Powershell Guide 1-1.png]]
+![Image Description](/images/Powershell%20Guide%201-1.png)
 
 
 
