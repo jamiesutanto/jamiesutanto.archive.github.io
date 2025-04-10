@@ -2,6 +2,8 @@
 
 $sourcePath = "C:\Obsidian\obsidian - celestia\posts\img"
 $destinationPath = "C:\Blog\thesinglerun\content\posts" 
+$publicPath = "C:\Blog\thesinglerun\public"
+$docsPath = "C:\Blog\thesinglerun\docs"
 
 # Set Github repo 
 $myrepo = "git@github.com:jamiesutanto/jamiesutanto.github.io"
@@ -91,6 +93,28 @@ try {
     hugo
 } catch {
     Write-Error "Hugo build failed."
+    exit 1
+}
+
+# Step 4a: Sync public to docs folder for use with Github Pages using Robocopy
+Write-Host "Syncing public to docs..."
+
+if (-not (Test-Path $publicPath)) {
+    Write-Error "Public path does not exist: $publicPath"
+    exit 1
+}
+
+if (-not (Test-Path $docsPath)) {
+    Write-Error "Docs path does not exist: $docsPath"
+    exit 1
+}
+
+# Use Robocopy to mirror the directories
+$robocopyOptions = @('/MIR', '/Z', '/W:5', '/R:3')
+$robocopyResult = robocopy $sourcePath $destinationPath @robocopyOptions
+
+if ($LASTEXITCODE -ge 8) {
+    Write-Error "Robocopy failed with exit code $LASTEXITCODE"
     exit 1
 }
 
