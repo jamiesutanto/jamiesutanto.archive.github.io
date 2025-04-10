@@ -2,6 +2,8 @@
 
 $sourcePath = "C:\Obsidian\obsidian - celestia\posts"
 $destinationPath = "C:\Blog\thesinglerun\content\posts" 
+$publicIndexFilePath = "C:\Blog\thesinglerun\public\index.html"
+$postsIndexFilePath = "C:\Blog\thesinglerun\public\posts\index.html"
 $publicPath = "C:\Blog\thesinglerun\public"
 $docsPath = "C:\Blog\thesinglerun\docs"
 
@@ -95,6 +97,12 @@ try {
     Write-Error "Hugo build failed."
     exit 1
 }
+
+Copy-Item  -Path $postsIndexFilePath -Destination $publicIndexFilePath -force
+
+
+$publicIndexFilePath = "C:\Blog\thesinglerun\public\index.html"
+$postsIndexFilePath = "C:\Blog\thesinglerun\public\posts\index.html"
 
 # Step 4a: Sync public to docs folder for use with Github Pages using Robocopy
 Write-Host "Syncing public to docs..."
