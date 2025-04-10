@@ -98,11 +98,7 @@ try {
     exit 1
 }
 
-Copy-Item  -Path $postsIndexFilePath -Destination $publicIndexFilePath -force
-
-
-$publicIndexFilePath = "C:\Blog\thesinglerun\public\index.html"
-$postsIndexFilePath = "C:\Blog\thesinglerun\public\posts\index.html"
+# Copy-Item  -Path $postsIndexFilePath -Destination $publicIndexFilePath -force
 
 # Step 4a: Sync public to docs folder for use with Github Pages using Robocopy
 Write-Host "Syncing public to docs..."
