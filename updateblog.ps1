@@ -1,6 +1,6 @@
 # PowerShell Script for Windows
 
-$sourcePath = "C:\Obsidian\obsidian - celestia\posts\img"
+$sourcePath = "C:\Obsidian\obsidian - celestia\posts"
 $destinationPath = "C:\Blog\thesinglerun\content\posts" 
 $publicPath = "C:\Blog\thesinglerun\public"
 $docsPath = "C:\Blog\thesinglerun\docs"
