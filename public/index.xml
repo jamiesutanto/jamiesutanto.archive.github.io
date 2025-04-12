@@ -6,7 +6,7 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mesmer Argosi</title>
       <link>/posts/mesmer-argosi/</link>
@@ -99,6 +99,56 @@
 &lt;li&gt;A &lt;strong&gt;Mesmer-powered game of social intrigue&lt;/strong&gt; combined with &lt;strong&gt;Argosi’s trickery&lt;/strong&gt;, where players use &lt;strong&gt;illusionary decrees&lt;/strong&gt; that subtly influence others’ decisions. This game would revolve around players casting &lt;strong&gt;spells or challenges&lt;/strong&gt; that alter the rules or shape the &lt;strong&gt;cards’ meaning&lt;/strong&gt;, creating an atmosphere where no one can be sure if the &lt;strong&gt;outcome is real&lt;/strong&gt; or a &lt;strong&gt;deception&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;These concepts are designed to blend the &lt;strong&gt;strategic depth&lt;/strong&gt; of &lt;strong&gt;trick-taking card games&lt;/strong&gt; (like the &lt;strong&gt;Argosi&lt;/strong&gt;) with the &lt;strong&gt;illusory, mind-bending powers&lt;/strong&gt; of &lt;strong&gt;Mesmers&lt;/strong&gt;, offering gameplay that’s about &lt;strong&gt;manipulating perceptions&lt;/strong&gt;, &lt;strong&gt;subtle deceptions&lt;/strong&gt;, and &lt;strong&gt;mental strategy&lt;/strong&gt;. Whether it’s through magical illusions or &lt;strong&gt;bluffing mechanics&lt;/strong&gt;, these ideas invite a game experience where every player has to stay one step ahead of their opponents.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Powershell Guide</title>
+      <link>/posts/powershell-guide-1/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/powershell-guide-1/</guid>
+      <description>&lt;h1 id=&#34;powershell-guide&#34;&gt;[[Powershell Guide]]&lt;/h1&gt;
+&lt;h2 id=&#34;intent&#34;&gt;Intent&lt;/h2&gt;
+&lt;p&gt;I hardly use [[Powershell]] but it&amp;rsquo;s a powerful tool to run a suite of commands in a Terminal.&lt;/p&gt;
+&lt;p&gt;So with that in mind, I use a Powershell script to update my Blog!&lt;/p&gt;
+&lt;p&gt;This note is designed to explain what I&amp;rsquo;ve needed to learn with Powershell!&lt;/p&gt;
+&lt;h1 id=&#34;powershell-commands&#34;&gt;Powershell Commands&lt;/h1&gt;
+&lt;p&gt;clear - This will clear the terminal
+Get-Help {cmdlet} - will list all help articles
+ctrl + c - This will kill the current executed command
+| - This will let you chain commands (like in Linux)
+${var_name} = xyz - This stores a variable name that can be used in Powershell&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;powershell-guide&#34;&gt;[[Powershell Guide]]&lt;/h1&gt;
+&lt;h2 id=&#34;intent&#34;&gt;Intent&lt;/h2&gt;
+&lt;p&gt;I hardly use [[Powershell]] but it&amp;rsquo;s a powerful tool to run a suite of commands in a Terminal.&lt;/p&gt;
+&lt;p&gt;So with that in mind, I use a Powershell script to update my Blog!&lt;/p&gt;
+&lt;p&gt;This note is designed to explain what I&amp;rsquo;ve needed to learn with Powershell!&lt;/p&gt;
+&lt;h1 id=&#34;powershell-commands&#34;&gt;Powershell Commands&lt;/h1&gt;
+&lt;p&gt;clear - This will clear the terminal
+Get-Help {cmdlet} - will list all help articles
+ctrl + c - This will kill the current executed command
+| - This will let you chain commands (like in Linux)
+${var_name} = xyz - This stores a variable name that can be used in Powershell&lt;/p&gt;
+&lt;h1 id=&#34;execution-policy&#34;&gt;Execution Policy&lt;/h1&gt;
+&lt;h4 id=&#34;get-executionpolicy&#34;&gt;Get-ExecutionPolicy&lt;/h4&gt;
+&lt;p&gt;This lets you know what your policy is&lt;/p&gt;
+&lt;h4 id=&#34;set-executionpolicy-remotesigned&#34;&gt;Set-ExecutionPolicy RemoteSigned&lt;/h4&gt;
+&lt;p&gt;This sets your policy &lt;strong&gt;RemoteSigned&lt;/strong&gt; allows you to run your own scripts.&lt;/p&gt;
+&lt;h2 id=&#34;windows-powershell-ise&#34;&gt;Windows Powershell ISE&lt;/h2&gt;
+&lt;p&gt;This is an IDE for writing PowerShell scripts&lt;/p&gt;
+&lt;h3 id=&#34;comments&#34;&gt;Comments&lt;/h3&gt;
+&lt;p&gt;This uses # just like in Python!&lt;/p&gt;
+&lt;h3 id=&#34;commands-aka-cmdlet&#34;&gt;Commands aka cmdlet&lt;/h3&gt;
+&lt;p&gt;Verb-Noun format
+&amp;ldquo;-&amp;rdquo; will auto complete with available commands&lt;/p&gt;
+&lt;h3 id=&#34;examples&#34;&gt;Examples&lt;/h3&gt;
+&lt;p&gt;Write-Host - This lets us print to the terminal
+&amp;ldquo;Hello World&amp;rdquo; | Out-File helloworld.txt - This will create a text file called helloworld.txt with &amp;ldquo;Hello World&amp;rdquo; inside of it
+&lt;img src=&#34;/images/Powershell%20Guide%201-1.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!createdat] Last updated on &lt;code&gt;=&amp;quot;[[&amp;quot; + dateformat(this.file.mtime,&amp;quot;yyyy-MMM&amp;quot;) + &amp;quot;]]&amp;quot;&lt;/code&gt;.&lt;/p&gt;&lt;/blockquote&gt;
 </content>
     </item>
     

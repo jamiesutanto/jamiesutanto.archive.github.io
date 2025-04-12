@@ -3,7 +3,7 @@ languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "re-terminal"
-pagination.pagerSize = 5
+pagination.pagerSize = 10
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -11,7 +11,7 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink", "paper"]
-  themeColor = "paper"
+  themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2

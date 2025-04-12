@@ -1,15 +1,16 @@
 ---
 aliases: 
-type: note
+type: post
 cssclasses:
   - img-grid
   - embed-strict
   - wide-page
   - max
-date: 2025-04-11
+date: 2025-04-09
 tags:
   - 2025/Apr
 title: Powershell Guide
+draft: "false"
 ---
 # [[Powershell Guide]]
 
