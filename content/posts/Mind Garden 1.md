@@ -1,6 +1,5 @@
 ---
 aliases: 
-type: post
 cssclasses:
   - img-grid
   - embed-strict
