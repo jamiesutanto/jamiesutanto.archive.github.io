@@ -1,26 +1,172 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2025/Apr on Terminal</title>
+    <title>2025/Apr on </title>
     <link>/tags/2025/apr/</link>
-    <description>Recent content in 2025/Apr on Terminal</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2025/Apr on </description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/2025/apr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/2025/apr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Joy of Being Hacked</title>
+      <link>/posts/tutorial---the-joy-of-being-hacked/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tutorial---the-joy-of-being-hacked/</guid>
+      <description>&lt;h1 id=&#34;tutorial---the-joy-of-being-hacked&#34;&gt;[[Tutorial - The Joy of Being Hacked]]&lt;/h1&gt;
+&lt;h1 id=&#34;tldr&#34;&gt;TLDR&lt;/h1&gt;
+&lt;p&gt;Being hacked BEFORE your site is made public has been the best tutorial for the internet!&lt;/p&gt;
+&lt;h2 id=&#34;the-morning-after&#34;&gt;The Morning After&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s 6 AM in the morning, you wake up and appreciate the joy of a tutorial to introduce you to the internet.  This is my inspiration for my blog post today, much different then my much more panicky self yesterday!&lt;/p&gt;
+&lt;p&gt;So here&amp;rsquo;s the story.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;tutorial---the-joy-of-being-hacked&#34;&gt;[[Tutorial - The Joy of Being Hacked]]&lt;/h1&gt;
+&lt;h1 id=&#34;tldr&#34;&gt;TLDR&lt;/h1&gt;
+&lt;p&gt;Being hacked BEFORE your site is made public has been the best tutorial for the internet!&lt;/p&gt;
+&lt;h2 id=&#34;the-morning-after&#34;&gt;The Morning After&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s 6 AM in the morning, you wake up and appreciate the joy of a tutorial to introduce you to the internet.  This is my inspiration for my blog post today, much different then my much more panicky self yesterday!&lt;/p&gt;
+&lt;p&gt;So here&amp;rsquo;s the story.&lt;/p&gt;
+&lt;h2 id=&#34;the-night-before&#34;&gt;The Night Before&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s 10 PM and after mulling ideas for your first post, you build up the willpower to actually start writing.  You log-in and are introduced to a spam site&amp;hellip;  Welcome to the internet&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;Your first thought is panic!  How could this be with such a fresh domain name that hasn&amp;rsquo;t even been made public.  Post-Reflection &amp;hellip;&lt;em&gt;And then you realise that everything on the internet is public from the day it&amp;rsquo;s published!&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-search&#34;&gt;The Search&lt;/h2&gt;
+&lt;p&gt;As with all problems, first stop search for an answer!&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Website replaced with spam site&amp;rdquo;
+&amp;ldquo;Website points to site I didn&amp;rsquo;t make&amp;rdquo;
+&amp;ldquo;Porkbun site suddenly changed&amp;rdquo;
+&amp;ldquo;URL points to spam site&amp;rdquo;
+&amp;ldquo;Website hacked&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Then you realise there are A LOT of different ways all of the above could mean, but after much reading you learn the terms DNS Poisoning, URL Hijacking and URL Re-direction and so many other terms that you realise you may be out of your depth!&lt;/p&gt;
+&lt;h2 id=&#34;porkbun-adventures&#34;&gt;Porkbun Adventures&lt;/h2&gt;
+&lt;p&gt;Good news, you have Support, so a message to Porkbun and you realise you likely won&amp;rsquo;t get a reply for 24 hours&amp;hellip;..&lt;/p&gt;
+&lt;p&gt;So time to just experiment!  And see what actually causes the site to resolve incorrectly.  So delete all settings you aren&amp;rsquo;t aware of.&lt;/p&gt;
+&lt;p&gt;URL Forwarding&amp;hellip;.. Still there.&lt;/p&gt;
+&lt;p&gt;DNS A Record gone&amp;hellip;. Still there.
+DNS AAAA records&amp;hellip;. Still there.
+DNS MX recordes&amp;hellip;.. Still there.
+DNS TXT records&amp;hellip;.. Still there.&lt;/p&gt;
+&lt;p&gt;So sounds like it&amp;rsquo;s time to go more nuclear, where you find the Porkbun Park command!  Reset to Factory Defaults exactly what I was looking for!  And&amp;hellip;. still there.&lt;/p&gt;
+&lt;p&gt;Few more searches, and all these changes do take a while to apply&amp;hellip; For me about 30 minutes, and finally arrived at a wonderful Parked page!  Time for some tea, and back to square one!&lt;/p&gt;
+&lt;p&gt;Reconnect Github Pages on Porkbun&amp;hellip;. and it came back!  Looks like it&amp;rsquo;s actually a Github Pages issue, so onto the next rabbit hole.&lt;/p&gt;
+&lt;h2 id=&#34;github-adventures&#34;&gt;Github Adventures&lt;/h2&gt;
+&lt;p&gt;Back to Github Pages, apply your custom domain and greeted with the message of:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;The custom domain thesinglerun.com is already taken.  If you are the owner of this domain &amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Follow the link, and didn&amp;rsquo;t actually understand how to re-claim it (it was late!), so first stop Github Support!  Where the first thing you realise is that Free users can&amp;rsquo;t actually create support&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;So instead a Virtual Assistant happily offers to check your domain name, and reports all is well!&lt;/p&gt;
+&lt;p&gt;Great!  Go back, and try to add the custom domain and still taken.&lt;/p&gt;
+&lt;p&gt;So, back to the support board with the many options to try and create a post!  Create Ticket was in the less obvious top right corner (away from the big squares) and once there punched in my description.&lt;/p&gt;
+&lt;p&gt;Github has a handy Co-Pilot check and try to address your problem BEFORE your ticket gets submitted, and strangely reading the exact same docs as the previous link in chat form made sense!&lt;/p&gt;
+&lt;p&gt;With these new instructions setup my DNS TXT file, added my custom domain, and boom my site is back!&lt;/p&gt;
+&lt;h2 id=&#34;post-euphoria&#34;&gt;Post Euphoria&lt;/h2&gt;
+&lt;p&gt;Strangely after realising the root cause I wanted to know how widespread this was!  (It&amp;rsquo;s strange how the human brain works).&lt;/p&gt;
+&lt;p&gt;And I found the exact same issue documented here!
+&lt;a href=&#34;https://medium.com/@jehy/hijacking-domain-using-github-pages-41c80ac57523&#34;&gt;https://medium.com/@jehy/hijacking-domain-using-github-pages-41c80ac57523&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And like &lt;em&gt;jehy&lt;/em&gt; I also wanted to report the issue, but realised it was on a Private Repo.  So being a good citizen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I let Porkbun Support know all is well and that it was a Github Pages issue!&lt;/li&gt;
+&lt;li&gt;I logged a Feature Request to Github to see if they could make Verifying Custom Domains mandatory (and if they could blacklist the hackers as well!)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;With that all logged, I filled in my journal and surprisingly wrote:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Got hacked!  Learnt Heaps&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;40 minutes past midnight!  Time to sleep!&lt;/p&gt;
+&lt;h2 id=&#34;reflections&#34;&gt;Reflections!&lt;/h2&gt;
+&lt;p&gt;Back to the present, I&amp;rsquo;m really am seeing the joy of being hacked!  (especially with timing!) so thanks for the tutorial!&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!createdat] Last updated on &lt;code&gt;=&amp;quot;[[&amp;quot; + dateformat(this.file.mtime,&amp;quot;yyyy-MMM&amp;quot;) + &amp;quot;]]&amp;quot;&lt;/code&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+    </item>
+    
     <item>
       <title>Powershell Guide</title>
       <link>/posts/powershell-guide-1/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      
       <guid>/posts/powershell-guide-1/</guid>
-      <description>&lt;h1 id=&#34;powershell-guide&#34;&gt;[[Powershell Guide]]&lt;/h1&gt;&#xA;&lt;h2 id=&#34;intent&#34;&gt;Intent&lt;/h2&gt;&#xA;&lt;p&gt;I hardly use [[Powershell]] but it&amp;rsquo;s a powerful tool to run a suite of commands in a Terminal.&lt;/p&gt;&#xA;&lt;p&gt;So with that in mind, I use a Powershell script to update my Blog!&lt;/p&gt;&#xA;&lt;p&gt;This note is designed to explain what I&amp;rsquo;ve needed to learn with Powershell!&lt;/p&gt;&#xA;&lt;h1 id=&#34;powershell-commands&#34;&gt;Powershell Commands&lt;/h1&gt;&#xA;&lt;p&gt;clear - This will clear the terminal&#xA;Get-Help {cmdlet} - will list all help articles&#xA;ctrl + c - This will kill the current executed command&#xA;| - This will let you chain commands (like in Linux)&#xA;${var_name} = xyz - This stores a variable name that can be used in Powershell&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;powershell-guide&#34;&gt;[[Powershell Guide]]&lt;/h1&gt;
+&lt;h2 id=&#34;intent&#34;&gt;Intent&lt;/h2&gt;
+&lt;p&gt;I hardly use [[Powershell]] but it&amp;rsquo;s a powerful tool to run a suite of commands in a Terminal.&lt;/p&gt;
+&lt;p&gt;So with that in mind, I use a Powershell script to update my Blog!&lt;/p&gt;
+&lt;p&gt;This note is designed to explain what I&amp;rsquo;ve needed to learn with Powershell!&lt;/p&gt;
+&lt;h1 id=&#34;powershell-commands&#34;&gt;Powershell Commands&lt;/h1&gt;
+&lt;p&gt;clear - This will clear the terminal
+Get-Help {cmdlet} - will list all help articles
+ctrl + c - This will kill the current executed command
+| - This will let you chain commands (like in Linux)
+${var_name} = xyz - This stores a variable name that can be used in Powershell&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;powershell-guide&#34;&gt;[[Powershell Guide]]&lt;/h1&gt;
+&lt;h2 id=&#34;intent&#34;&gt;Intent&lt;/h2&gt;
+&lt;p&gt;I hardly use [[Powershell]] but it&amp;rsquo;s a powerful tool to run a suite of commands in a Terminal.&lt;/p&gt;
+&lt;p&gt;So with that in mind, I use a Powershell script to update my Blog!&lt;/p&gt;
+&lt;p&gt;This note is designed to explain what I&amp;rsquo;ve needed to learn with Powershell!&lt;/p&gt;
+&lt;h1 id=&#34;powershell-commands&#34;&gt;Powershell Commands&lt;/h1&gt;
+&lt;p&gt;clear - This will clear the terminal
+Get-Help {cmdlet} - will list all help articles
+ctrl + c - This will kill the current executed command
+| - This will let you chain commands (like in Linux)
+${var_name} = xyz - This stores a variable name that can be used in Powershell&lt;/p&gt;
+&lt;h1 id=&#34;execution-policy&#34;&gt;Execution Policy&lt;/h1&gt;
+&lt;h4 id=&#34;get-executionpolicy&#34;&gt;Get-ExecutionPolicy&lt;/h4&gt;
+&lt;p&gt;This lets you know what your policy is&lt;/p&gt;
+&lt;h4 id=&#34;set-executionpolicy-remotesigned&#34;&gt;Set-ExecutionPolicy RemoteSigned&lt;/h4&gt;
+&lt;p&gt;This sets your policy &lt;strong&gt;RemoteSigned&lt;/strong&gt; allows you to run your own scripts.&lt;/p&gt;
+&lt;h2 id=&#34;windows-powershell-ise&#34;&gt;Windows Powershell ISE&lt;/h2&gt;
+&lt;p&gt;This is an IDE for writing PowerShell scripts&lt;/p&gt;
+&lt;h3 id=&#34;comments&#34;&gt;Comments&lt;/h3&gt;
+&lt;p&gt;This uses # just like in Python!&lt;/p&gt;
+&lt;h3 id=&#34;commands-aka-cmdlet&#34;&gt;Commands aka cmdlet&lt;/h3&gt;
+&lt;p&gt;Verb-Noun format
+&amp;ldquo;-&amp;rdquo; will auto complete with available commands&lt;/p&gt;
+&lt;h3 id=&#34;examples&#34;&gt;Examples&lt;/h3&gt;
+&lt;p&gt;Write-Host - This lets us print to the terminal
+&amp;ldquo;Hello World&amp;rdquo; | Out-File helloworld.txt - This will create a text file called helloworld.txt with &amp;ldquo;Hello World&amp;rdquo; inside of it
+&lt;img src=&#34;/images/Powershell%20Guide%201-1.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!createdat] Last updated on &lt;code&gt;=&amp;quot;[[&amp;quot; + dateformat(this.file.mtime,&amp;quot;yyyy-MMM&amp;quot;) + &amp;quot;]]&amp;quot;&lt;/code&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
     </item>
+    
     <item>
       <title>Digital Garden - Categories</title>
       <link>/posts/mind-garden-1/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      
       <guid>/posts/mind-garden-1/</guid>
-      <description>&lt;h1 id=&#34;mind-garden&#34;&gt;[[Mind Garden]]&lt;/h1&gt;&#xA;&lt;h2 id=&#34;gist&#34;&gt;Gist&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;[!abstract] Gist&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;A [[Mind Garden]] is where we plant seeds with the intent for them to grow into trees that produce fruit.  Like a garden, not all ideas will get planted and it&amp;rsquo;s OK to let go of these so that others can flourish!&lt;/p&gt;&#xA;&lt;h2 id=&#34;idea&#34;&gt;Idea&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Author: [[Ness Labs]]&lt;/strong&gt;&#xA;&lt;strong&gt;Source: &lt;a href=&#34;https://www.mentalnodes.com/a-gardening-guide-for-your-mind&#34;&gt;A Gardening Guide for your Mind by Ness Labs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Seeds.&lt;/strong&gt; Seed your garden with quality content and cultivate your curiosity. Plant seeds in your mind garden by taking smart personal notes (&lt;a href=&#34;https://www.mentalnodes.com/taking-raw-notes-is-useless&#34;&gt;taking raw notes is useless&lt;/a&gt;). These don&amp;rsquo;t need to be written in a publishable form.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Trees.&lt;/strong&gt; Grow your knowledge by forming new branches and connecting the dots. Write short structured notes articulating specific ideas and publish them in your digital garden. One note in your digital garden = one idea. (what you&amp;rsquo;re currently reading is such a note) &lt;a href=&#34;https://www.mentalnodes.com/do-not-keep-orphan-notes&#34;&gt;Do not keep orphan notes&lt;/a&gt;. &lt;a href=&#34;https://www.mentalnodes.com/threaded-thinking-instead-of-linear-thinking&#34;&gt;Thread your thoughts.&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fruits.&lt;/strong&gt; Produce &lt;a href=&#34;https://www.mentalnodes.com/on-the-newness-of-ideas&#34;&gt;new work&lt;/a&gt;. These are more substantial—essays, videos, maybe a book at some point. The kind of work researchers and creatives may hope will help them &lt;a href=&#34;https://www.mentalnodes.com/living-beyond-your-expiration-date&#34;&gt;live beyond their expiration date&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source: &lt;a href=&#34;https://www.mentalnodes.com/do-not-keep-orphan-notes&#34;&gt;Do not keep Orphaned Notes&lt;/a&gt;&lt;/strong&gt;&#xA;Every time you write a new note, make sure to go back to previous notes and to interlink them together. Orphan notes do not contribute to the serendipitous creation of &lt;a href=&#34;https://www.mentalnodes.com/on-the-newness-of-ideas&#34;&gt;new insights&lt;/a&gt;. Only by connecting notes together can we go &lt;a href=&#34;https://www.mentalnodes.com/from-collector-to-creator&#34;&gt;from collector to creator&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;mind-garden&#34;&gt;[[Mind Garden]]&lt;/h1&gt;
+&lt;h2 id=&#34;gist&#34;&gt;Gist&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!abstract] Gist&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;A [[Mind Garden]] is where we plant seeds with the intent for them to grow into trees that produce fruit.  Like a garden, not all ideas will get planted and it&amp;rsquo;s OK to let go of these so that others can flourish!&lt;/p&gt;
+&lt;h2 id=&#34;idea&#34;&gt;Idea&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Author: [[Ness Labs]]&lt;/strong&gt;
+&lt;strong&gt;Source: &lt;a href=&#34;https://www.mentalnodes.com/a-gardening-guide-for-your-mind&#34;&gt;A Gardening Guide for your Mind by Ness Labs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Seeds.&lt;/strong&gt; Seed your garden with quality content and cultivate your curiosity. Plant seeds in your mind garden by taking smart personal notes (&lt;a href=&#34;https://www.mentalnodes.com/taking-raw-notes-is-useless&#34;&gt;taking raw notes is useless&lt;/a&gt;). These don&amp;rsquo;t need to be written in a publishable form.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trees.&lt;/strong&gt; Grow your knowledge by forming new branches and connecting the dots. Write short structured notes articulating specific ideas and publish them in your digital garden. One note in your digital garden = one idea. (what you&amp;rsquo;re currently reading is such a note) &lt;a href=&#34;https://www.mentalnodes.com/do-not-keep-orphan-notes&#34;&gt;Do not keep orphan notes&lt;/a&gt;. &lt;a href=&#34;https://www.mentalnodes.com/threaded-thinking-instead-of-linear-thinking&#34;&gt;Thread your thoughts.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fruits.&lt;/strong&gt; Produce &lt;a href=&#34;https://www.mentalnodes.com/on-the-newness-of-ideas&#34;&gt;new work&lt;/a&gt;. These are more substantial—essays, videos, maybe a book at some point. The kind of work researchers and creatives may hope will help them &lt;a href=&#34;https://www.mentalnodes.com/living-beyond-your-expiration-date&#34;&gt;live beyond their expiration date&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Source: &lt;a href=&#34;https://www.mentalnodes.com/do-not-keep-orphan-notes&#34;&gt;Do not keep Orphaned Notes&lt;/a&gt;&lt;/strong&gt;
+Every time you write a new note, make sure to go back to previous notes and to interlink them together. Orphan notes do not contribute to the serendipitous creation of &lt;a href=&#34;https://www.mentalnodes.com/on-the-newness-of-ideas&#34;&gt;new insights&lt;/a&gt;. Only by connecting notes together can we go &lt;a href=&#34;https://www.mentalnodes.com/from-collector-to-creator&#34;&gt;from collector to creator&lt;/a&gt;.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;mind-garden&#34;&gt;[[Mind Garden]]&lt;/h1&gt;
+&lt;h2 id=&#34;gist&#34;&gt;Gist&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!abstract] Gist&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;A [[Mind Garden]] is where we plant seeds with the intent for them to grow into trees that produce fruit.  Like a garden, not all ideas will get planted and it&amp;rsquo;s OK to let go of these so that others can flourish!&lt;/p&gt;
+&lt;h2 id=&#34;idea&#34;&gt;Idea&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Author: [[Ness Labs]]&lt;/strong&gt;
+&lt;strong&gt;Source: &lt;a href=&#34;https://www.mentalnodes.com/a-gardening-guide-for-your-mind&#34;&gt;A Gardening Guide for your Mind by Ness Labs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Seeds.&lt;/strong&gt; Seed your garden with quality content and cultivate your curiosity. Plant seeds in your mind garden by taking smart personal notes (&lt;a href=&#34;https://www.mentalnodes.com/taking-raw-notes-is-useless&#34;&gt;taking raw notes is useless&lt;/a&gt;). These don&amp;rsquo;t need to be written in a publishable form.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trees.&lt;/strong&gt; Grow your knowledge by forming new branches and connecting the dots. Write short structured notes articulating specific ideas and publish them in your digital garden. One note in your digital garden = one idea. (what you&amp;rsquo;re currently reading is such a note) &lt;a href=&#34;https://www.mentalnodes.com/do-not-keep-orphan-notes&#34;&gt;Do not keep orphan notes&lt;/a&gt;. &lt;a href=&#34;https://www.mentalnodes.com/threaded-thinking-instead-of-linear-thinking&#34;&gt;Thread your thoughts.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fruits.&lt;/strong&gt; Produce &lt;a href=&#34;https://www.mentalnodes.com/on-the-newness-of-ideas&#34;&gt;new work&lt;/a&gt;. These are more substantial—essays, videos, maybe a book at some point. The kind of work researchers and creatives may hope will help them &lt;a href=&#34;https://www.mentalnodes.com/living-beyond-your-expiration-date&#34;&gt;live beyond their expiration date&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Source: &lt;a href=&#34;https://www.mentalnodes.com/do-not-keep-orphan-notes&#34;&gt;Do not keep Orphaned Notes&lt;/a&gt;&lt;/strong&gt;
+Every time you write a new note, make sure to go back to previous notes and to interlink them together. Orphan notes do not contribute to the serendipitous creation of &lt;a href=&#34;https://www.mentalnodes.com/on-the-newness-of-ideas&#34;&gt;new insights&lt;/a&gt;. Only by connecting notes together can we go &lt;a href=&#34;https://www.mentalnodes.com/from-collector-to-creator&#34;&gt;from collector to creator&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;related-links&#34;&gt;Related Links&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!createdat] Last updated on &lt;code&gt;=&amp;quot;[[&amp;quot; + dateformat(this.file.mtime,&amp;quot;yyyy-MMM&amp;quot;) + &amp;quot;]]&amp;quot;&lt;/code&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
     </item>
+    
   </channel>
 </rss>

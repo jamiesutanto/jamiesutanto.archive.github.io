@@ -1,19 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Idea on Terminal</title>
+    <title>Idea on </title>
     <link>/tags/idea/</link>
-    <description>Recent content in Idea on Terminal</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Idea on </description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/idea/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/idea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital Garden - Categories</title>
       <link>/posts/mind-garden-1/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      
       <guid>/posts/mind-garden-1/</guid>
-      <description>&lt;h1 id=&#34;mind-garden&#34;&gt;[[Mind Garden]]&lt;/h1&gt;&#xA;&lt;h2 id=&#34;gist&#34;&gt;Gist&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;[!abstract] Gist&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;A [[Mind Garden]] is where we plant seeds with the intent for them to grow into trees that produce fruit.  Like a garden, not all ideas will get planted and it&amp;rsquo;s OK to let go of these so that others can flourish!&lt;/p&gt;&#xA;&lt;h2 id=&#34;idea&#34;&gt;Idea&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Author: [[Ness Labs]]&lt;/strong&gt;&#xA;&lt;strong&gt;Source: &lt;a href=&#34;https://www.mentalnodes.com/a-gardening-guide-for-your-mind&#34;&gt;A Gardening Guide for your Mind by Ness Labs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Seeds.&lt;/strong&gt; Seed your garden with quality content and cultivate your curiosity. Plant seeds in your mind garden by taking smart personal notes (&lt;a href=&#34;https://www.mentalnodes.com/taking-raw-notes-is-useless&#34;&gt;taking raw notes is useless&lt;/a&gt;). These don&amp;rsquo;t need to be written in a publishable form.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Trees.&lt;/strong&gt; Grow your knowledge by forming new branches and connecting the dots. Write short structured notes articulating specific ideas and publish them in your digital garden. One note in your digital garden = one idea. (what you&amp;rsquo;re currently reading is such a note) &lt;a href=&#34;https://www.mentalnodes.com/do-not-keep-orphan-notes&#34;&gt;Do not keep orphan notes&lt;/a&gt;. &lt;a href=&#34;https://www.mentalnodes.com/threaded-thinking-instead-of-linear-thinking&#34;&gt;Thread your thoughts.&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fruits.&lt;/strong&gt; Produce &lt;a href=&#34;https://www.mentalnodes.com/on-the-newness-of-ideas&#34;&gt;new work&lt;/a&gt;. These are more substantial—essays, videos, maybe a book at some point. The kind of work researchers and creatives may hope will help them &lt;a href=&#34;https://www.mentalnodes.com/living-beyond-your-expiration-date&#34;&gt;live beyond their expiration date&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source: &lt;a href=&#34;https://www.mentalnodes.com/do-not-keep-orphan-notes&#34;&gt;Do not keep Orphaned Notes&lt;/a&gt;&lt;/strong&gt;&#xA;Every time you write a new note, make sure to go back to previous notes and to interlink them together. Orphan notes do not contribute to the serendipitous creation of &lt;a href=&#34;https://www.mentalnodes.com/on-the-newness-of-ideas&#34;&gt;new insights&lt;/a&gt;. Only by connecting notes together can we go &lt;a href=&#34;https://www.mentalnodes.com/from-collector-to-creator&#34;&gt;from collector to creator&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;mind-garden&#34;&gt;[[Mind Garden]]&lt;/h1&gt;
+&lt;h2 id=&#34;gist&#34;&gt;Gist&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!abstract] Gist&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;A [[Mind Garden]] is where we plant seeds with the intent for them to grow into trees that produce fruit.  Like a garden, not all ideas will get planted and it&amp;rsquo;s OK to let go of these so that others can flourish!&lt;/p&gt;
+&lt;h2 id=&#34;idea&#34;&gt;Idea&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Author: [[Ness Labs]]&lt;/strong&gt;
+&lt;strong&gt;Source: &lt;a href=&#34;https://www.mentalnodes.com/a-gardening-guide-for-your-mind&#34;&gt;A Gardening Guide for your Mind by Ness Labs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Seeds.&lt;/strong&gt; Seed your garden with quality content and cultivate your curiosity. Plant seeds in your mind garden by taking smart personal notes (&lt;a href=&#34;https://www.mentalnodes.com/taking-raw-notes-is-useless&#34;&gt;taking raw notes is useless&lt;/a&gt;). These don&amp;rsquo;t need to be written in a publishable form.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trees.&lt;/strong&gt; Grow your knowledge by forming new branches and connecting the dots. Write short structured notes articulating specific ideas and publish them in your digital garden. One note in your digital garden = one idea. (what you&amp;rsquo;re currently reading is such a note) &lt;a href=&#34;https://www.mentalnodes.com/do-not-keep-orphan-notes&#34;&gt;Do not keep orphan notes&lt;/a&gt;. &lt;a href=&#34;https://www.mentalnodes.com/threaded-thinking-instead-of-linear-thinking&#34;&gt;Thread your thoughts.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fruits.&lt;/strong&gt; Produce &lt;a href=&#34;https://www.mentalnodes.com/on-the-newness-of-ideas&#34;&gt;new work&lt;/a&gt;. These are more substantial—essays, videos, maybe a book at some point. The kind of work researchers and creatives may hope will help them &lt;a href=&#34;https://www.mentalnodes.com/living-beyond-your-expiration-date&#34;&gt;live beyond their expiration date&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Source: &lt;a href=&#34;https://www.mentalnodes.com/do-not-keep-orphan-notes&#34;&gt;Do not keep Orphaned Notes&lt;/a&gt;&lt;/strong&gt;
+Every time you write a new note, make sure to go back to previous notes and to interlink them together. Orphan notes do not contribute to the serendipitous creation of &lt;a href=&#34;https://www.mentalnodes.com/on-the-newness-of-ideas&#34;&gt;new insights&lt;/a&gt;. Only by connecting notes together can we go &lt;a href=&#34;https://www.mentalnodes.com/from-collector-to-creator&#34;&gt;from collector to creator&lt;/a&gt;.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;mind-garden&#34;&gt;[[Mind Garden]]&lt;/h1&gt;
+&lt;h2 id=&#34;gist&#34;&gt;Gist&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!abstract] Gist&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;A [[Mind Garden]] is where we plant seeds with the intent for them to grow into trees that produce fruit.  Like a garden, not all ideas will get planted and it&amp;rsquo;s OK to let go of these so that others can flourish!&lt;/p&gt;
+&lt;h2 id=&#34;idea&#34;&gt;Idea&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Author: [[Ness Labs]]&lt;/strong&gt;
+&lt;strong&gt;Source: &lt;a href=&#34;https://www.mentalnodes.com/a-gardening-guide-for-your-mind&#34;&gt;A Gardening Guide for your Mind by Ness Labs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Seeds.&lt;/strong&gt; Seed your garden with quality content and cultivate your curiosity. Plant seeds in your mind garden by taking smart personal notes (&lt;a href=&#34;https://www.mentalnodes.com/taking-raw-notes-is-useless&#34;&gt;taking raw notes is useless&lt;/a&gt;). These don&amp;rsquo;t need to be written in a publishable form.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trees.&lt;/strong&gt; Grow your knowledge by forming new branches and connecting the dots. Write short structured notes articulating specific ideas and publish them in your digital garden. One note in your digital garden = one idea. (what you&amp;rsquo;re currently reading is such a note) &lt;a href=&#34;https://www.mentalnodes.com/do-not-keep-orphan-notes&#34;&gt;Do not keep orphan notes&lt;/a&gt;. &lt;a href=&#34;https://www.mentalnodes.com/threaded-thinking-instead-of-linear-thinking&#34;&gt;Thread your thoughts.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fruits.&lt;/strong&gt; Produce &lt;a href=&#34;https://www.mentalnodes.com/on-the-newness-of-ideas&#34;&gt;new work&lt;/a&gt;. These are more substantial—essays, videos, maybe a book at some point. The kind of work researchers and creatives may hope will help them &lt;a href=&#34;https://www.mentalnodes.com/living-beyond-your-expiration-date&#34;&gt;live beyond their expiration date&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Source: &lt;a href=&#34;https://www.mentalnodes.com/do-not-keep-orphan-notes&#34;&gt;Do not keep Orphaned Notes&lt;/a&gt;&lt;/strong&gt;
+Every time you write a new note, make sure to go back to previous notes and to interlink them together. Orphan notes do not contribute to the serendipitous creation of &lt;a href=&#34;https://www.mentalnodes.com/on-the-newness-of-ideas&#34;&gt;new insights&lt;/a&gt;. Only by connecting notes together can we go &lt;a href=&#34;https://www.mentalnodes.com/from-collector-to-creator&#34;&gt;from collector to creator&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;related-links&#34;&gt;Related Links&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!createdat] Last updated on &lt;code&gt;=&amp;quot;[[&amp;quot; + dateformat(this.file.mtime,&amp;quot;yyyy-MMM&amp;quot;) + &amp;quot;]]&amp;quot;&lt;/code&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
     </item>
+    
   </channel>
 </rss>
