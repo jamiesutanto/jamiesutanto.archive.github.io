@@ -9,7 +9,7 @@ cssclasses:
 date: 2025-04-16
 tags:
   - 2025/Apr
-title: The Joy of Being Hacked
+title: Tutorial - The Joy of Being Hacked
 draft: "false"
 ---
 # [[Tutorial - The Joy of Being Hacked]]
