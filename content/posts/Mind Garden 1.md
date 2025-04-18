@@ -12,7 +12,7 @@ tags:
   - idea
 status: Seed
 title: Digital Garden - Categories
-draft: "false"
+draft: "true"
 ---
 # [[Mind Garden]]
 ## Gist

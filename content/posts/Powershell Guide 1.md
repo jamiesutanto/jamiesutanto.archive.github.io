@@ -9,7 +9,7 @@ date: 2025-04-09
 tags:
   - 2025/Apr
 title: Powershell Guide
-draft: "false"
+draft: "true"
 ---
 # [[Powershell Guide]]
 
