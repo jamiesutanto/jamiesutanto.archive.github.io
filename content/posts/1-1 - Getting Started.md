@@ -12,9 +12,6 @@ tags:
 title: 1-1 Getting Started
 draft: "false"
 ---
-# [[1-1 - Getting Started]]
-
-
 # Lesson
 
 Still too perfectionist to not just **do**, but **research first**! 
