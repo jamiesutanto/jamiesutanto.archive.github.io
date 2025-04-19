@@ -143,12 +143,12 @@ if (-not $hasStagedChanges) {
 }
 
 # Step 7: Push all changes to the main branch
-# Write-Host "Deploying to GitHub Main..."
-# try {
-#     git push origin main
-# } catch {
-#     Write-Error "Failed to push to Main branch."
-#     exit 1
-# }
+Write-Host "Deploying to GitHub Main..."
+try {
+    git push origin main
+} catch {
+    Write-Error "Failed to push to Main branch."
+    exit 1
+}
 
 Write-Host "All done! Site synced, processed, committed, and pushed."
