@@ -13,7 +13,7 @@ title: 1-1 Getting Started
 draft: "false"
 ---
 # Lesson
-
+abc
 Still too perfectionist to not just **do**, but **research first**! 
 
 The newsletters / blogs I consume are quite diverse!  I want to lean into posts that are:
