@@ -6,6 +6,7 @@ $publicIndexFilePath = "C:\Blog\thesinglerun\public\index.html"
 $postsIndexFilePath = "C:\Blog\thesinglerun\public\posts\index.html"
 $publicPath = "C:\Blog\thesinglerun\public"
 $docsPath = "C:\Blog\thesinglerun\docs"
+$cnamePath = "C:\Blog\thesinglerun\docs\CNAME"
 
 # Set Github repo 
 $myrepo = "git@github.com:jamiesutanto/jamiesutanto.github.io"
@@ -114,7 +115,7 @@ if (-not (Test-Path $docsPath)) {
 }
 
 # Use Robocopy to mirror the directories
-$robocopyOptions = @('/MIR', '/Z', '/W:5', '/R:3')
+$robocopyOptions = @('/MIR', '/Z', '/W:5', '/R:3', '/XF', $cnamePath)
 $robocopyResult = robocopy $publicPath $docsPath @robocopyOptions
 
 if ($LASTEXITCODE -ge 8) {
