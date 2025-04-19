@@ -125,6 +125,8 @@ if ($LASTEXITCODE -ge 8) {
 
 # Step 4c: Delete starting 2 lines and last 2 lines that contain my Obsidian Templater info (for Obsidian)
 
+Write-Host "Deleting starting 2 lines and last 2 lines for .md files."
+
 Get-ChildItem $docsPath -Filter *.md | 
 Foreach-Object {
     # Delete starting 2 lines and last 2 lines
