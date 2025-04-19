@@ -74,7 +74,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en.params]
     languageName = "English"
-    title = "re-Terminal"
+    title = "The Single Run"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
@@ -90,7 +90,7 @@ pagination.pagerSize = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "re-Terminal"
+      logoText = "The Single Run"
       logoHomeLink = "/"
 
     [languages.en.menu]

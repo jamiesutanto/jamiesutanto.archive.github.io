@@ -99,7 +99,7 @@ try {
     exit 1
 }
 
-# Copy-Item  -Path $postsIndexFilePath -Destination $publicIndexFilePath -force
+Copy-Item -Path $postsIndexFilePath -Destination $publicIndexFilePath -force
 
 # Step 4a: Sync public to docs folder for use with Github Pages using Robocopy
 Write-Host "Syncing public to docs..."
