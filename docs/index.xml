@@ -6,7 +6,32 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1-2 Hadestown</title>
+      <link>/posts/1-2-hadestown/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/1-2-hadestown/</guid>
+      <description>&lt;h2 id=&#34;lesson&#34;&gt;Lesson&lt;/h2&gt;
+&lt;p&gt;Trust is the foundation and true test of every relationship!
+Make dedicated time for your creative work!  Don&amp;rsquo;t let it consume all your attention&lt;/p&gt;
+&lt;h1 id=&#34;hades-town&#34;&gt;Hades Town&lt;/h1&gt;
+&lt;p&gt;Today was a visit to watch the musical Hadestown, starting with&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!createdat] Last updated on &lt;code&gt;=&amp;quot;[[&amp;quot; + dateformat(this.file.mtime,&amp;quot;yyyy-MMM&amp;quot;) + &amp;quot;]]&amp;quot;&lt;/code&gt;.&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content>&lt;h2 id=&#34;lesson&#34;&gt;Lesson&lt;/h2&gt;
+&lt;p&gt;Trust is the foundation and true test of every relationship!
+Make dedicated time for your creative work!  Don&amp;rsquo;t let it consume all your attention&lt;/p&gt;
+&lt;h1 id=&#34;hades-town&#34;&gt;Hades Town&lt;/h1&gt;
+&lt;p&gt;Today was a visit to watch the musical Hadestown, starting with&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!createdat] Last updated on &lt;code&gt;=&amp;quot;[[&amp;quot; + dateformat(this.file.mtime,&amp;quot;yyyy-MMM&amp;quot;) + &amp;quot;]]&amp;quot;&lt;/code&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+    </item>
+    
     <item>
       <title>1-1 Getting Started</title>
       <link>/posts/1-1---getting-started/</link>
