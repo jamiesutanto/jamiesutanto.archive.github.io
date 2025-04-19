@@ -75,6 +75,19 @@ if ($LASTEXITCODE -ge 8) {
     exit 1
 }
 
+# Step 2a: Delete starting 2 lines and last 2 lines that contain my Obsidian Templater info (for Obsidian)
+
+Write-Host "Deleting starting 2 lines and last 2 lines for .md files."
+
+Get-ChildItem $destinationPath -Filter *.md | 
+Foreach-Object {
+    $content = Get-Content $_.FullName
+
+    $content[2..($content.length-3)]
+    
+    Set-Content $_.FullName $content
+}
+
 # Step 3: Process Markdown files with Python script to handle image links
 Write-Host "Processing image links in Markdown files..."
 if (-not (Test-Path "images.py")) {
@@ -89,6 +102,7 @@ try {
     Write-Error "Failed to process image links."
     exit 1
 }
+
 
 # Step 4: Build the Hugo site
 Write-Host "Building the Hugo site..."
@@ -121,19 +135,6 @@ $robocopyResult = robocopy $publicPath $docsPath @robocopyOptions
 if ($LASTEXITCODE -ge 8) {
     Write-Error "Robocopy failed with exit code $LASTEXITCODE"
     exit 1
-}
-
-# Step 4c: Delete starting 2 lines and last 2 lines that contain my Obsidian Templater info (for Obsidian)
-
-Write-Host "Deleting starting 2 lines and last 2 lines for .md files."
-
-Get-ChildItem $docsPath -Filter *.md | 
-Foreach-Object {
-    # Delete starting 2 lines and last 2 lines
-    $content[2..($content.length-3)]
-		
-    # Save out file
-    Out-File $file -Force
 }
 
 # Step 5: Add changes to Git
