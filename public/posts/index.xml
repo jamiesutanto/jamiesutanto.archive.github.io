@@ -8,37 +8,13 @@
     <language>en</language>
     <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1-2 Hadestown</title>
-      <link>/posts/1-2-hadestown/</link>
-      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/1-2-hadestown/</guid>
-      <description>&lt;h2 id=&#34;lesson&#34;&gt;Lesson&lt;/h2&gt;
-&lt;p&gt;Trust is the foundation and true test of every relationship!
-Make dedicated time for your creative work!  Don&amp;rsquo;t let it consume all your attention&lt;/p&gt;
-&lt;h1 id=&#34;hades-town&#34;&gt;Hades Town&lt;/h1&gt;
-&lt;p&gt;Today was a visit to watch the musical Hadestown, starting with&lt;/p&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!createdat] Last updated on &lt;code&gt;=&amp;quot;[[&amp;quot; + dateformat(this.file.mtime,&amp;quot;yyyy-MMM&amp;quot;) + &amp;quot;]]&amp;quot;&lt;/code&gt;.&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content>&lt;h2 id=&#34;lesson&#34;&gt;Lesson&lt;/h2&gt;
-&lt;p&gt;Trust is the foundation and true test of every relationship!
-Make dedicated time for your creative work!  Don&amp;rsquo;t let it consume all your attention&lt;/p&gt;
-&lt;h1 id=&#34;hades-town&#34;&gt;Hades Town&lt;/h1&gt;
-&lt;p&gt;Today was a visit to watch the musical Hadestown, starting with&lt;/p&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!createdat] Last updated on &lt;code&gt;=&amp;quot;[[&amp;quot; + dateformat(this.file.mtime,&amp;quot;yyyy-MMM&amp;quot;) + &amp;quot;]]&amp;quot;&lt;/code&gt;.&lt;/p&gt;&lt;/blockquote&gt;
-</content>
-    </item>
-    
-    <item>
       <title>1-1 Getting Started</title>
       <link>/posts/1-1---getting-started/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/1-1---getting-started/</guid>
-      <description>&lt;h1 id=&#34;lesson&#34;&gt;Lesson&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;1-1---getting-started&#34;&gt;[[1-1 - Getting Started]]&lt;/h1&gt;
+&lt;h1 id=&#34;lesson&#34;&gt;Lesson&lt;/h1&gt;
 &lt;p&gt;abcaa
 Still too perfectionist to not just &lt;strong&gt;do&lt;/strong&gt;, but &lt;strong&gt;research first&lt;/strong&gt;!&lt;/p&gt;
 &lt;p&gt;The newsletters / blogs I consume are quite diverse!  I want to lean into posts that are:&lt;/p&gt;
@@ -61,7 +37,8 @@ Still too perfectionist to not just &lt;strong&gt;do&lt;/strong&gt;, but &lt;str
 &lt;h1 id=&#34;story&#34;&gt;Story&lt;/h1&gt;
 &lt;h3 id=&#34;intro&#34;&gt;Intro&lt;/h3&gt;
 &lt;p&gt;After passing the Being Hacked tutorial, I felt ready to tackle the world of my first &lt;strong&gt;real&lt;/strong&gt; blog post!  The challenge being, I don&amp;rsquo;t yet have a voice&amp;hellip;.&lt;/p&gt;</description>
-      <content>&lt;h1 id=&#34;lesson&#34;&gt;Lesson&lt;/h1&gt;
+      <content>&lt;h1 id=&#34;1-1---getting-started&#34;&gt;[[1-1 - Getting Started]]&lt;/h1&gt;
+&lt;h1 id=&#34;lesson&#34;&gt;Lesson&lt;/h1&gt;
 &lt;p&gt;abcaa
 Still too perfectionist to not just &lt;strong&gt;do&lt;/strong&gt;, but &lt;strong&gt;research first&lt;/strong&gt;!&lt;/p&gt;
 &lt;p&gt;The newsletters / blogs I consume are quite diverse!  I want to lean into posts that are:&lt;/p&gt;
@@ -127,14 +104,14 @@ Mathias Jakobsen - The idea of physical pages as newsletters is such a cool one!
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/tutorial---the-joy-of-being-hacked/</guid>
-      <description>&lt;h1 id=&#34;tldr&#34;&gt;TLDR&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;tutorial---the-joy-of-being-hacked&#34;&gt;[[Tutorial - The Joy of Being Hacked]]&lt;/h1&gt;
+&lt;h1 id=&#34;tldr&#34;&gt;TLDR&lt;/h1&gt;
 &lt;p&gt;Being hacked BEFORE your site is made public has been the best tutorial for the internet!&lt;/p&gt;
 &lt;h2 id=&#34;the-morning-after&#34;&gt;The Morning After&lt;/h2&gt;
 &lt;p&gt;It&amp;rsquo;s 6 AM in the morning, you wake up and appreciate the joy of a tutorial to introduce you to the internet.  This is my inspiration for my blog post today, much different then my much more panicky self yesterday!&lt;/p&gt;
-&lt;p&gt;So here&amp;rsquo;s the story.&lt;/p&gt;
-&lt;h2 id=&#34;the-night-before&#34;&gt;The Night Before&lt;/h2&gt;
-&lt;p&gt;It&amp;rsquo;s 10 PM and after mulling ideas for your first post, you build up the willpower to actually start writing.  You log-in and are introduced to a spam site&amp;hellip;  Welcome to the internet&amp;hellip;.&lt;/p&gt;</description>
-      <content>&lt;h1 id=&#34;tldr&#34;&gt;TLDR&lt;/h1&gt;
+&lt;p&gt;So here&amp;rsquo;s the story.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;tutorial---the-joy-of-being-hacked&#34;&gt;[[Tutorial - The Joy of Being Hacked]]&lt;/h1&gt;
+&lt;h1 id=&#34;tldr&#34;&gt;TLDR&lt;/h1&gt;
 &lt;p&gt;Being hacked BEFORE your site is made public has been the best tutorial for the internet!&lt;/p&gt;
 &lt;h2 id=&#34;the-morning-after&#34;&gt;The Morning After&lt;/h2&gt;
 &lt;p&gt;It&amp;rsquo;s 6 AM in the morning, you wake up and appreciate the joy of a tutorial to introduce you to the internet.  This is my inspiration for my blog post today, much different then my much more panicky self yesterday!&lt;/p&gt;

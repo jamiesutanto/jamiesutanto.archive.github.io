@@ -12,6 +12,8 @@ tags:
 title: Tutorial - The Joy of Being Hacked
 draft: "false"
 ---
+# [[Tutorial - The Joy of Being Hacked]]
+
 # TLDR
 Being hacked BEFORE your site is made public has been the best tutorial for the internet!
 

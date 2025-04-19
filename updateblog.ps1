@@ -123,6 +123,17 @@ if ($LASTEXITCODE -ge 8) {
     exit 1
 }
 
+# Step 4c: Delete starting 2 lines and last 2 lines that contain my Obsidian Templater info (for Obsidian)
+
+Get-ChildItem $docsPath -Filter *.md | 
+Foreach-Object {
+    # Delete starting 2 lines and last 2 lines
+    $content[2..($content.length-3)]
+		
+    # Save out file
+    Out-File $file -Force
+}
+
 # Step 5: Add changes to Git
 Write-Host "Staging changes for Git..."
 $hasChanges = (git status --porcelain) -ne ""

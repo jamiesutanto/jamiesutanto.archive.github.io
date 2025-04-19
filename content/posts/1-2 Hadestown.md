@@ -10,8 +10,10 @@ date: 2025-04-19
 tags:
   - 2025/Apr
 title: 1-2 Hadestown
-draft: "false"
+draft: "true"
 ---
+[[1-2 Hadestown]]
+
 ## Lesson
 Trust is the foundation and true test of every relationship!
 Make dedicated time for your creative work!  Don't let it consume all your attention
