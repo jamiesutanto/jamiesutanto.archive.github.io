@@ -29,8 +29,13 @@ Today was our second attempt to watch *Hadestown*!  We missed our actual session
 
 The only expectation I had was of the game *Hades* so was curious to see how the characters would come to life!  With that one expectation in mind, we walked in and the first thing I saw was the on-stage Jazz Ensemble and knew that it'd be something special!
 
-### Spoilers Block Ahead!
-```
+### SPOILERS AHEAD!
+
+     |
+	 |
+	 |
+	 |
+	\/
 ### My Notes
 - A lesson on marriage counselling
 - Overworking leading to neglect in the relationship
@@ -54,4 +59,3 @@ This loop is where we start often in the rigged game of life, where our decision
 
 The hope being that the musical itself can be the spark that will be a mirror to your own 'rigged' situation and give you the chance to come back!
 
-```
