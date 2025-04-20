@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on </title>
+    <link>/about/</link>
+    <description>Recent content in Abouts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/about/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;[[About]]&lt;/h1&gt;
+&lt;p&gt;Hi! My name is Jamie Sutanto and you&amp;rsquo;ve stumbled across my site The Single Run.  Thanks for being here!&lt;/p&gt;
+&lt;p&gt;This site is my personal site where I treat my life with the mindset of a &lt;em&gt;Single Run&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;We all have our own &lt;strong&gt;unique start point&lt;/strong&gt; based on our life experience.
+We have &lt;strong&gt;choices&lt;/strong&gt; that we make each and every day.
+There are &lt;strong&gt;no take backs&lt;/strong&gt; and &lt;strong&gt;time always move forwards&lt;/strong&gt;.
+And with those in mind, we can now &lt;strong&gt;decide&lt;/strong&gt; how we choose to live our lives.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;about&#34;&gt;[[About]]&lt;/h1&gt;
+&lt;p&gt;Hi! My name is Jamie Sutanto and you&amp;rsquo;ve stumbled across my site The Single Run.  Thanks for being here!&lt;/p&gt;
+&lt;p&gt;This site is my personal site where I treat my life with the mindset of a &lt;em&gt;Single Run&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;We all have our own &lt;strong&gt;unique start point&lt;/strong&gt; based on our life experience.
+We have &lt;strong&gt;choices&lt;/strong&gt; that we make each and every day.
+There are &lt;strong&gt;no take backs&lt;/strong&gt; and &lt;strong&gt;time always move forwards&lt;/strong&gt;.
+And with those in mind, we can now &lt;strong&gt;decide&lt;/strong&gt; how we choose to live our lives.&lt;/p&gt;
+&lt;p&gt;I hope you enjoy your time here, exploring the random events of my life!&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!createdat] Last updated on &lt;code&gt;=&amp;quot;[[&amp;quot; + dateformat(this.file.mtime,&amp;quot;yyyy-MMM&amp;quot;) + &amp;quot;]]&amp;quot;&lt;/code&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
