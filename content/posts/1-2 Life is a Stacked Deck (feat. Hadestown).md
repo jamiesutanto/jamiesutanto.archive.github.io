@@ -1,14 +1,9 @@
 ---
 aliases: 
 type: note
-cssclasses:
-  - img-grid
-  - embed-strict
-  - wide-page
-  - max
 date: 2025-04-19
 tags:
-  - 2025/Apr
+  - blog
 title: 1-2 Hadestown
 draft: "false"
 ---

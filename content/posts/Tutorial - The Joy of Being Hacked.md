@@ -8,7 +8,7 @@ cssclasses:
   - max
 date: 2025-04-16
 tags:
-  - 2025/Apr
+  - blog
 title: Tutorial - The Joy of Being Hacked
 draft: "false"
 ---
