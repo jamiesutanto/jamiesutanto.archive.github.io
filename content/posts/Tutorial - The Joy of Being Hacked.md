@@ -14,10 +14,8 @@ draft: "false"
 ---
 # Lesson
 Being hacked BEFORE your site is made public has been the best tutorial for the internet!
-# Story
+# The Journey
 It's 6 AM in the morning, you wake up and appreciate the joy of a tutorial to introduce you to the internet.  This is my inspiration for my blog post today, much different then my much more panicky self yesterday!
-
-So here's my story for today.
 ## The Night Before
 It's 10 PM and after mulling ideas for your first post, you build up the willpower to actually start writing.  You log-in and are introduced to a spam site...  Welcome to the internet....
 
