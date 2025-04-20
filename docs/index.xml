@@ -6,7 +6,34 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/posts/about/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/about/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;[[About]]&lt;/h1&gt;
+&lt;p&gt;Hi! My name is Jamie Sutanto and you&amp;rsquo;ve stumbled across my site The Single Run.  Thanks for being here!&lt;/p&gt;
+&lt;p&gt;This site is my personal site where I treat my life with the mindset of a &lt;em&gt;Single Run&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;We all have our own &lt;strong&gt;unique start point&lt;/strong&gt; based on our life experience.
+We have &lt;strong&gt;choices&lt;/strong&gt; that we make each and every day.
+There are &lt;strong&gt;no take backs&lt;/strong&gt; and &lt;strong&gt;time always move forwards&lt;/strong&gt;.
+And with those in mind, we can now &lt;strong&gt;decide&lt;/strong&gt; how we choose to live our lives.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;about&#34;&gt;[[About]]&lt;/h1&gt;
+&lt;p&gt;Hi! My name is Jamie Sutanto and you&amp;rsquo;ve stumbled across my site The Single Run.  Thanks for being here!&lt;/p&gt;
+&lt;p&gt;This site is my personal site where I treat my life with the mindset of a &lt;em&gt;Single Run&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;We all have our own &lt;strong&gt;unique start point&lt;/strong&gt; based on our life experience.
+We have &lt;strong&gt;choices&lt;/strong&gt; that we make each and every day.
+There are &lt;strong&gt;no take backs&lt;/strong&gt; and &lt;strong&gt;time always move forwards&lt;/strong&gt;.
+And with those in mind, we can now &lt;strong&gt;decide&lt;/strong&gt; how we choose to live our lives.&lt;/p&gt;
+&lt;p&gt;I hope you enjoy your time here, exploring the random events of my life!&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!createdat] Last updated on &lt;code&gt;=&amp;quot;[[&amp;quot; + dateformat(this.file.mtime,&amp;quot;yyyy-MMM&amp;quot;) + &amp;quot;]]&amp;quot;&lt;/code&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+    </item>
+    
     <item>
       <title>1-2 Hadestown</title>
       <link>/posts/1-2-life-is-a-stacked-deck-feat.-hadestown/</link>
@@ -15,16 +42,12 @@
       <guid>/posts/1-2-life-is-a-stacked-deck-feat.-hadestown/</guid>
       <description>&lt;h1 id=&#34;quote&#34;&gt;Quote&lt;/h1&gt;
 &lt;blockquote&gt;
-&lt;p&gt;But the ones who tell the lies&lt;br&gt;
-Are the solemnest to swear&lt;br&gt;
-And the ones who load the dice&lt;br&gt;
-Always say the toss is fair&lt;br&gt;
-And the ones who deal the cards&lt;br&gt;
+&lt;p&gt;And the ones who deal the cards&lt;br&gt;
 Are the ones who take the tricks&lt;br&gt;
 With their hands over their hearts&lt;br&gt;
 While we play the games they fix&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Orpheus&lt;/li&gt;
+&lt;li&gt;Orpheus (from &lt;em&gt;If It&amp;rsquo;s True&lt;/em&gt;)&lt;/li&gt;
 &lt;/ul&gt;&lt;/blockquote&gt;
 &lt;h1 id=&#34;lesson&#34;&gt;Lesson&lt;/h1&gt;
 &lt;p&gt;Trust is the foundation and true test of every relationship!
@@ -34,16 +57,12 @@ Interrogate the &amp;lsquo;fixed game&amp;rsquo; rather than just living in it!
 Jazz + Western Styling is alive in Sydney!&lt;/p&gt;</description>
       <content>&lt;h1 id=&#34;quote&#34;&gt;Quote&lt;/h1&gt;
 &lt;blockquote&gt;
-&lt;p&gt;But the ones who tell the lies&lt;br&gt;
-Are the solemnest to swear&lt;br&gt;
-And the ones who load the dice&lt;br&gt;
-Always say the toss is fair&lt;br&gt;
-And the ones who deal the cards&lt;br&gt;
+&lt;p&gt;And the ones who deal the cards&lt;br&gt;
 Are the ones who take the tricks&lt;br&gt;
 With their hands over their hearts&lt;br&gt;
 While we play the games they fix&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Orpheus&lt;/li&gt;
+&lt;li&gt;Orpheus (from &lt;em&gt;If It&amp;rsquo;s True&lt;/em&gt;)&lt;/li&gt;
 &lt;/ul&gt;&lt;/blockquote&gt;
 &lt;h1 id=&#34;lesson&#34;&gt;Lesson&lt;/h1&gt;
 &lt;p&gt;Trust is the foundation and true test of every relationship!
@@ -73,11 +92,9 @@ Jazz + Western Styling is alive in Sydney!&lt;/p&gt;
 &lt;h3 id=&#34;extra&#34;&gt;Extra&lt;/h3&gt;
 &lt;p&gt;Fold your hand when the chips are down.&lt;/p&gt;
 &lt;p&gt;Another parallel is that we all actually live in our own versions of &lt;em&gt;Hadestown&lt;/em&gt;.  We are on Earth, unsatisfied and yearning for something that we always feel remains un-fulfilled.&lt;/p&gt;
-&lt;p&gt;We get the offer of a simple life, shopping, TikTok, Social Media, Video Games, Drugs and Alchohol.  Then we sign the dotted line, pick up the new cards in our deck, and work forever until we can eventually get the dream we&amp;rsquo;ve always wanted, which actually never comes.&lt;/p&gt;
+&lt;p&gt;We get the offer of a simple life, shopping, TikTok, Social Media, Video Games, Drugs and Alcohol.  Then we sign the dotted line, pick up the new cards in our deck, and work forever until we can eventually get the dream we&amp;rsquo;ve always wanted, which actually never comes.&lt;/p&gt;
 &lt;p&gt;This loop is where we start often in the rigged game of life, where our decisions are dictated by all the things we thought might give us contentment.  And we need some spark to give us a chance at escaping, and then we are given the chance to try.  To try to move beyond, but we often look back and get trapped again in the same cycle.  Possibly a little different, but often with enough try&amp;rsquo;s we get weary and forget our names and the dreams we even started with&amp;hellip;&lt;/p&gt;
 &lt;p&gt;The hope being that the musical itself can be the spark that will be a mirror to your own &amp;lsquo;rigged&amp;rsquo; situation and give you the chance to come back!&lt;/p&gt;
-&lt;h4 id=&#34;if-its-true&#34;&gt;If It’s True&lt;/h4&gt;
-&lt;p&gt;[ORPHEUS]&lt;/p&gt;
 &lt;p&gt;Lands of Galzyr like - Side quests.&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;

@@ -13,15 +13,11 @@ title: 1-2 Hadestown
 draft: "false"
 ---
 # Quote
-> But the ones who tell the lies  
-> Are the solemnest to swear  
-> And the ones who load the dice  
-> Always say the toss is fair  
 > And the ones who deal the cards  
 > Are the ones who take the tricks  
 > With their hands over their hearts  
 > While we play the games they fix
-> - Orpheus
+> - Orpheus (from *If It's True*)
 
 # Lesson
 Trust is the foundation and true test of every relationship!
@@ -62,15 +58,13 @@ Fold your hand when the chips are down.
 
 Another parallel is that we all actually live in our own versions of *Hadestown*.  We are on Earth, unsatisfied and yearning for something that we always feel remains un-fulfilled.
 
-We get the offer of a simple life, shopping, TikTok, Social Media, Video Games, Drugs and Alchohol.  Then we sign the dotted line, pick up the new cards in our deck, and work forever until we can eventually get the dream we've always wanted, which actually never comes.
+We get the offer of a simple life, shopping, TikTok, Social Media, Video Games, Drugs and Alcohol.  Then we sign the dotted line, pick up the new cards in our deck, and work forever until we can eventually get the dream we've always wanted, which actually never comes.
 
 This loop is where we start often in the rigged game of life, where our decisions are dictated by all the things we thought might give us contentment.  And we need some spark to give us a chance at escaping, and then we are given the chance to try.  To try to move beyond, but we often look back and get trapped again in the same cycle.  Possibly a little different, but often with enough try's we get weary and forget our names and the dreams we even started with...
 
 The hope being that the musical itself can be the spark that will be a mirror to your own 'rigged' situation and give you the chance to come back!
 
-#### If It’s True
 
-[ORPHEUS]  
 
 
 
