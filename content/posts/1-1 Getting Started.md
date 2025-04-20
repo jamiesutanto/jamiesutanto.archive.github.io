@@ -24,9 +24,7 @@ Rogue-like Deckbuilders are fun!  So researching them themselves leads to lots o
 - Use years as the final Boss (maybe Annual Report), with branching paths (tied to goals) and junctures where we decline a boss as well!
 - Site-map can be based on the path taken!
 
-# Story
-Here's how I got to the lessons above:
-### Intro
+# The Journey
 After passing the Being Hacked tutorial, I felt ready to tackle the world of my first **real** blog post!  The challenge being, I don't yet have a voice....
 
 The best approach would be to not worry too much about it and just start writing!  BUT my *perfectionist mind* thought it'd be much better to spend time researching.....  So today's story is about that journey.
@@ -53,14 +51,13 @@ With that done ... here's some ideas I like!
 
 # Games
 The Blog is based on the idea of a **rogue-like** so I booted up Slay The Spire and One Step From Eden to see how they record their journey!
-### Slay the Spire
-This actually doesn't show where you are on a Stage, it's just the Path > The Event
-### One Step From Eden
-This displays your progress on the bottom right corner:
-1-1 (first choice) 1-2 (second choice) etc until you complete the level.  Then you move on.
-### Ideas
-The structure of having some [MTO Goal](https://aaron.com/2013/08/13/the-best-goal-achievement-strategy/) may be a good way to define these *Levels* BUT what if we change the goal posts or never get there entirely?  How does that work in the system?  Or is it just time itself - A year or some meaningful juncture between Annual Reports? 
-If we could have an image of the path (and the one not taken that would be quite cool too!)  It shows intentionality on where you are going!
-This can be a site-map as well let's see!
+- **Slay the Spire** - This actually doesn't show where you are on a Stage, it's just the Path > The Event
+- **One Step From Eden** - This displays your progress on the bottom right corner:
+	- 1-1 (first choice) 1-2 (second choice) etc until you complete the level.  Then you move on.
+### What I'll do with it
+
+With the inspiration of games, I can see that it's important to define **what** a level actually is, and what the **end boss** might actually be.  Having a think of the philosophy, time may be the most meaningful juncture with a Quarter or Year being a good milestone to represent the finitude of life.
+
+The choices made (and left behind) could be a great way to link the concepts together, especially for a site-map, so let's see where we go!
 
 ---
