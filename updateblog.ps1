@@ -1,6 +1,6 @@
 # PowerShell Script for Windows
 
-$sourcePath = "C:\Obsidian\obsidian - celestia\posts"
+$sourcePath = "C:\Obsidian\obsidian - celestia\1. Projects\The Single Run\posts"
 $destinationPath = "C:\Blog\thesinglerun\content\posts" 
 $publicIndexFilePath = "C:\Blog\thesinglerun\public\index.html"
 $postsIndexFilePath = "C:\Blog\thesinglerun\public\posts\index.html"
