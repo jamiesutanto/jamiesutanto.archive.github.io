@@ -2,8 +2,6 @@
 aliases:
   - The Single Run - About
 date: 2025-04-20
-tags:
-  - 2025/Apr
 draft: "false"
 title: About
 layout: about
