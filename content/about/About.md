@@ -15,4 +15,5 @@ This site is my personal site where I treat my life with the mindset of a *Singl
 - And with those in mind, we can now **decide** how we choose to live our lives. 
 
 I hope you enjoy your time here, exploring the random events of my life!
+
 ---
