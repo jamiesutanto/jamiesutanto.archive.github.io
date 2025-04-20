@@ -35,14 +35,14 @@ The best approach would be to not worry too much about it and just start writing
 ### Newsletters I Read
 The obvious place to start, is what I actually read and enjoy myself!  Then to think about what I enjoy about each.
 
-Seth's Blog - The succint-ness of Seth's Blog is so powerful (even though it seems really hard to do!)  But the ability to distill knowledge into a concise point is worth aspiring to.
-Ness Labs - AI Image > What's going on Now > A Concept with Imagery > Post Script (things I'm Enjoying).  I always find these newletters insightful, part structure, with the images in particular being a stand-out to make the concept real!
-The Imperfectionist - You have to accept that your life is finite!  A title > a concept > bold to emphasise one point > end with a quote / analogy / reference.  This newsletter just speaks to me, which whilst no magic formula can teach me about how to do things. 
-Zen Habits - Title > Down Arrow > Text.  One bold only!  Start with questions you ask yourself then extrapolate!
-The Minimalists - In poetry form.  Short incomplete sentences to represent a whole.
-Eric Barker - Very how to.  Picture > Intro > Details > Summary
-Shane Parrish - Tiny Thoughts (One liners / three of them seperated by * / ** / *** ) - Insights (Single paragraphs with a lesson) - Repository (link to someone else) - PS (life links / interesting things)
-Mathias Jakobsen - The idea of physical pages as newsletters is such a cool one! Challenge being on how to be clear and succinct!  Digital could help!  Ask a question at the end
+- Seth's Blog - The succint-ness of Seth's Blog is so powerful (even though it seems really hard to do!)  But the ability to distill knowledge into a concise point is worth aspiring to.
+- Ness Labs - AI Image > What's going on Now > A Concept with Imagery > Post Script (things I'm Enjoying).  I always find these newletters insightful, part structure, with the images in particular being a stand-out to make the concept real!
+- The Imperfectionist - You have to accept that your life is finite!  A title > a concept > bold to emphasise one point > end with a quote / analogy / reference.  This newsletter just speaks to me, which whilst no magic formula can teach me about how to do things. 
+- Zen Habits - Title > Down Arrow > Text.  One bold only!  Start with questions you ask yourself then extrapolate!
+- The Minimalists - In poetry form.  Short incomplete sentences to represent a whole.
+- Eric Barker - Very how to.  Picture > Intro > Details > Summary
+- Shane Parrish - Tiny Thoughts (One liners / three of them seperated by * / ** / *** ) - Insights (Single paragraphs with a lesson) - Repository (link to someone else) - PS (life links / interesting things)
+- Mathias Jakobsen - The idea of physical pages as newsletters is such a cool one! Challenge being on how to be clear and succinct!  Digital could help!  Ask a question at the end
 ![[Mathias Jakobsen - Journals as Newsletter.jpg]]
 
 ### What I'll do with it
