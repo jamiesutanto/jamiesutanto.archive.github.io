@@ -13,8 +13,6 @@ title: 1-1 Getting Started
 draft: "false"
 ---
 # Lesson
-Still too perfectionist to not just **do**, but **research first**! 
-
 I consume a diverse set of newsletters / blogs!  From these, I want to lean into posts that are:
 - Succinct 
 - Include things I'm enjoying (as a callout)
