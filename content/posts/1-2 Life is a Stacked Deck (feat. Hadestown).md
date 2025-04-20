@@ -67,3 +67,5 @@ The spark that Orpheus brings to Hadestown, is the spark that re-connects Hades 
 - And the nature of the 'fixed' game they all live in
 
 Really glad I got to see the Australian production and props to all involved, especially the Trombone player (James Greening) who really made the finale something special (even after the cast headed out!)
+
+---
