@@ -50,7 +50,7 @@ The premise is the tale of Orpheus + Euridice, and how he'll travel to the depth
 
 The spark that Orpheus brings to Hadestown, is the spark that re-connects Hades + Persephone's original love, and as a parting gift Hades instills a trial that he could never complete, the one where he has to have full trust in his partner.  This leads to the un-fulfilled love in the final conclusion that is really the key to a long lasting marriage that both Hades + Orpheus will never see.
 
-### We all live in our own Hadestown
+### Life is a Stacked Deck
 Another parallel is that we all actually live in our own versions of *Hadestown*.  We are on Earth, unsatisfied and yearning for something that we always feel remains un-fulfilled.
 
 We get the offer of a simple life, shopping, TikTok, Social Media, Video Games, Drugs and Alcohol.  Then we sign the dotted line, pick up the new cards in our deck, and work forever until we can eventually get the dream we've always wanted, which actually never comes.
