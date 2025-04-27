@@ -7,4 +7,4 @@ tags:
 draft: "false"
 title: On Pen and Paper
 ---
-![[20250427 - On Pen and Paper.jpeg]]
+![Image Description](/images/20250427%20-%20On%20Pen%20and%20Paper.jpeg)
