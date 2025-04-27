@@ -12,4 +12,4 @@ tags:
 draft: "false"
 title: On Pen and Paper
 ---
-![20250427 - On Pen and Paper.jpeg](https://1drv.ms/i/c/5eb2ec6858a03f14/Edm5Os7rLnpLp5cKUO5hCosBEPmqbU5aQYPmbMmmtJxFLA?e=PfYFxK)
+![[20250427 - On Pen and Paper.jpeg]]
