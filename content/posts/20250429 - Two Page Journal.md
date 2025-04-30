@@ -1,7 +1,7 @@
 ---
 aliases: 
 type: note
-date: 2025-04-27
+date: 2025-04-29
 tags:
   - blog
 draft: "false"

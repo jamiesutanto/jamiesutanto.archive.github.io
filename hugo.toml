@@ -11,7 +11,7 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink", "paper"]
-  themeColor = "orange"
+  themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 3
@@ -28,11 +28,11 @@ pagination.pagerSize = 5
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
   # With this option you don't have to put the `cover` param in a front-matter.
-  autoCover = true
+  autoCover = false
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
+  showLastUpdated = true
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
@@ -74,7 +74,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en.params]
     languageName = "English"
-    title = "The Single Run"
+    title = "Two Page Journal"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
@@ -90,7 +90,7 @@ pagination.pagerSize = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "The Single Run"
+      logoText = "Two Page Journal"
       logoHomeLink = "/"
 
     [languages.en.menu]
