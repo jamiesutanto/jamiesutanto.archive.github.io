@@ -1,12 +1,12 @@
 # PowerShell Script for Windows
 
-$sourcePath = "C:\Obsidian\obsidian - celestia\1. Projects\The Single Run\posts"
-$destinationPath = "C:\Blog\thesinglerun\content\posts" 
-$publicIndexFilePath = "C:\Blog\thesinglerun\public\index.html"
-$postsIndexFilePath = "C:\Blog\thesinglerun\public\posts\index.html"
-$publicPath = "C:\Blog\thesinglerun\public"
-$docsPath = "C:\Blog\thesinglerun\docs"
-$cnamePath = "C:\Blog\thesinglerun\docs\CNAME"
+$sourcePath = "C:\Obsidian\obsidian - celestia\1. Projects\Two Page Journal\posts"
+$destinationPath = "C:\Blog\twopagejournal\content\posts" 
+$publicIndexFilePath = "C:\Blog\twopagejournal\public\index.html"
+$postsIndexFilePath = "C:\Blog\twopagejournal\public\posts\index.html"
+$publicPath = "C:\Blog\twopagejournal\public"
+$docsPath = "C:\Blog\twopagejournal\docs"
+$cnamePath = "C:\Blog\twopagejournal\docs\CNAME"
 
 # Set Github repo 
 $myrepo = "git@github.com:jamiesutanto/jamiesutanto.github.io"
